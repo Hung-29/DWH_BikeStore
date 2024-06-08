@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Staff.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}|Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS.dwproj|solutionrelative:Bike_Store_DataWarehouse_SASS\\Dim Staff.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Date.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:07:12.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Customer.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:24:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Store.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Store.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Store.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Store.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Store.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:23:44.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Location.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:11:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike Store Dw.cube [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Bike Store Dw.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:07:11.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bike Store Dw.dsv [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Bike Store Dw.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T08:56:47.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Product.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:15:13.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Staff.dim [Design]",
+              "DocumentMoniker": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Staff.dim",
+              "RelativeDocumentMoniker": "Bike_Store_DataWarehouse_SASS\\Dim Staff.dim",
+              "ToolTip": "D:\\HK2\\DataWareHouse\\FinalProject\\Bike_Store_DataWarehouse_SASS\\Bike_Store_DataWarehouse_SASS\\Dim Staff.dim [Design]",
+              "RelativeToolTip": "Bike_Store_DataWarehouse_SASS\\Dim Staff.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:18:45.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

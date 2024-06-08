@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Bike_Store_DataWarehouse_SASS", "Bike_Store_DataWarehouse_SASS\Bike_Store_DataWarehouse_SASS.dwproj", "{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}.Development|Default.ActiveCfg = Development
+		{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}.Development|Default.Build.0 = Development
+		{B4CE2C88-CCE7-4BEA-80B7-AD7D7BD3DF0D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {426337A4-35E3-4DDC-9B80-26A6301DF375}
+	EndGlobalSection
+EndGlobal
